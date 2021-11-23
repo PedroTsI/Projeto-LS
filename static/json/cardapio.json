@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Comida A",
+        "price": 3.00,
+        "category": [
+            "comida",
+            "massas"
+        ],
+        "image": "static/img/comida1.png"
+    },
+    {
+        "name": "Bebida A",
+        "price": 15.00,
+        "category": [
+            "bebida",
+            "refrigerante"
+        ],
+        "image": "static/img/bebida1.png"
+    },
+    {
+        "name": "Comida B",
+        "price": 10.00,
+        "category": [
+            "comida",
+            "japonesa"
+        ],
+        "image": "static/img/comida2.png"
+    },
+    {
+        "name": " ",
+        "price":0.00,
+        "category":[
+
+        ],
+        "image": " "
+    }
+]
