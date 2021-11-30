@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Falafel Vegano",
+        "price": 3.00,
+        "category": [
+            "comida",
+            "arabe"
+        ],
+        "image": "../../imagens/arabe-falafel-vegan.jpg"
+    },
+    {
+        "name": "Homus",
+        "price": 15.00,
+        "category": [
+            "comida",
+            "arabe"
+        ],
+        "image": "../../imagens/arabe-homus-vegan.jpg"
+    },
+    {
+        "name": "Limonada Rosa",
+        "price": 10.00,
+        "category": [
+            "bebida",
+            "suco"
+        ],
+        "image": "../../imagens/bebidas-limonada-rosa.jpg"
+    },
+    {
+        "name": "Mate Gelado",
+        "price":0.00,
+        "category":[
+            "bebida",
+            "chá"
+        ],
+        "image": "../../imagens/bebidas-mate-gelado.jpg"
+    },
+    {
+        "name": "Milkshake",
+        "price":0.00,
+        "category":[
+            "bebida",
+            "sobremesa"
+        ],
+        "image": "../../imagens/bebidas-milkshake.jpg"
+    },
+    {
+        "name": "Suco de Açai",
+        "price":0.00,
+        "category":[
+            "bebida",
+            "suco"
+        ],
+        "image": "../../imagens/bebidas-suco-de-acai.jpg"
+    },
+    {
+        "name": "Suco de Laranja",
+        "price":0.00,
+        "category":[
+            "bebida",
+            "suco"
+        ],
+        "image": "../../imagens/bebidas-suco-de-laranja.jpg"
+    },
+    {
+        "name": "Açai",
+        "price":0.00,
+        "category":[
+            "comida",
+            "brasileira"
+        ],
+        "image": "../../imagens/brasileira-acai.jpg"
+    },
+    {
+        "name": "Feijoada",
+        "price":0.00,
+        "category":[
+            "comida",
+            "brasileira"
+        ],
+        "image": "../../imagens/brasileira-feijoada.jpg"
+    },
+    {
+        "name": "Moqueca",
+        "price":0.00,
+        "category":[
+            "comida",
+            "brasileira"
+        ],
+        "image": "../../imagens/brasileira-moqueca.jpg"
+    },
+    {
+        "name": "Batata Frita",
+        "price":0.00,
+        "category":[
+            "comida",
+            "fastfood"
+        ],
+        "image": "../../imagens/fast-food-batata-frita-vegan.jpg"
+    },
+    {
+        "name": "Hamburguer",
+        "price":0.00,
+        "category":[
+            "comida",
+            "fastfood"
+        ],
+        "image": "../../imagens/fast-food-hamburguer.jpg"
+    },
+    {
+        "name": "Pizza",
+        "price":0.00,
+        "category":[
+            "comida",
+            "italiana"
+        ],
+        "image": "../../imagens/fast-food-pizza.jpg"
+    },
+    {
+        "name": "Guioza",
+        "price":0.00,
+        "category":[
+            "comida",
+            "japonesa"
+        ],
+        "image": "../../imagens/japonesa-guioza.jpg"
+    },
+    {
+        "name": "Lámen",
+        "price":0.00,
+        "category":[
+            "comida",
+            "japonesa"
+        ],
+        "image": "../../imagens/japonesa-lamen.jpg"
+    },
+    {
+        "name": "Sushi",
+        "price":0.00,
+        "category":[
+            "comida",
+            "japonesa"
+        ],
+        "image": "../../imagens/japonesa-sushi.jpg"
+    },
+    {
+        "name": "Burrito",
+        "price":0.00,
+        "category":[
+            "comida",
+            "mexicana"
+        ],
+        "image": "../../imagens/mexicana-burrito.jpg"
+    },
+    {
+        "name": "Guacamole",
+        "price":0.00,
+        "category":[
+            "comida",
+            "mexicana"
+        ],
+        "image": "../../imagens/mexicana-guacamole-vegan.jpg"
+    },
+    {
+        "name": "Taco",
+        "price":0.00,
+        "category":[
+            "comida",
+            "mexicana"
+        ],
+        "image": "../../imagens/mexicana-taco-vegan.jpg"
+    },
+    {
+        "name": "Shaksuka",
+        "price":0.00,
+        "category":[
+            "comida",
+            "arabe"
+        ],
+        "image": "../../imagens/arabe-shakshuka.jpg"
+    },
+    {
+        "name": " ",
+        "price":0.00,
+        "category":[
+
+        ],
+        "image": " "
+    }
+]
