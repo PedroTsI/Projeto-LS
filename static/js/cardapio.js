@@ -1,7 +1,7 @@
-[
+const cardapio = [
     {
-        "name": "Falafel Vegano",
-        "price": 3.00,
+        "name": "Falafel",
+        "price": 15.00,
         "category": [
             "comida",
             "arabe"
@@ -10,7 +10,7 @@
     },
     {
         "name": "Homus",
-        "price": 15.00,
+        "price": 10.00,
         "category": [
             "comida",
             "arabe"
@@ -19,7 +19,7 @@
     },
     {
         "name": "Limonada Rosa",
-        "price": 10.00,
+        "price": 7.50,
         "category": [
             "bebida",
             "suco"
@@ -28,7 +28,7 @@
     },
     {
         "name": "Mate Gelado",
-        "price":0.00,
+        "price": 7.50,
         "category":[
             "bebida",
             "chá"
@@ -37,7 +37,7 @@
     },
     {
         "name": "Milkshake",
-        "price":0.00,
+        "price": 10.00,
         "category":[
             "bebida",
             "sobremesa"
@@ -46,7 +46,7 @@
     },
     {
         "name": "Suco de Açai",
-        "price":0.00,
+        "price": 10.00,
         "category":[
             "bebida",
             "suco"
@@ -55,7 +55,7 @@
     },
     {
         "name": "Suco de Laranja",
-        "price":0.00,
+        "price": 7.50,
         "category":[
             "bebida",
             "suco"
@@ -64,7 +64,7 @@
     },
     {
         "name": "Açai",
-        "price":0.00,
+        "price": 15.00,
         "category":[
             "comida",
             "brasileira"
@@ -73,7 +73,7 @@
     },
     {
         "name": "Feijoada",
-        "price":0.00,
+        "price": 20.00,
         "category":[
             "comida",
             "brasileira"
@@ -82,7 +82,7 @@
     },
     {
         "name": "Moqueca",
-        "price":0.00,
+        "price": 25.00,
         "category":[
             "comida",
             "brasileira"
@@ -91,7 +91,7 @@
     },
     {
         "name": "Batata Frita",
-        "price":0.00,
+        "price": 6.00,
         "category":[
             "comida",
             "fastfood"
@@ -100,7 +100,7 @@
     },
     {
         "name": "Hamburguer",
-        "price":0.00,
+        "price":14.00,
         "category":[
             "comida",
             "fastfood"
@@ -109,7 +109,7 @@
     },
     {
         "name": "Pizza",
-        "price":0.00,
+        "price":30.00,
         "category":[
             "comida",
             "italiana"
@@ -118,7 +118,7 @@
     },
     {
         "name": "Guioza",
-        "price":0.00,
+        "price":19.00,
         "category":[
             "comida",
             "japonesa"
@@ -127,7 +127,7 @@
     },
     {
         "name": "Lámen",
-        "price":0.00,
+        "price":24.50,
         "category":[
             "comida",
             "japonesa"
@@ -136,7 +136,7 @@
     },
     {
         "name": "Sushi",
-        "price":0.00,
+        "price":18.00,
         "category":[
             "comida",
             "japonesa"
@@ -145,7 +145,7 @@
     },
     {
         "name": "Burrito",
-        "price":0.00,
+        "price":12.00,
         "category":[
             "comida",
             "mexicana"
@@ -154,7 +154,7 @@
     },
     {
         "name": "Guacamole",
-        "price":0.00,
+        "price":10.00,
         "category":[
             "comida",
             "mexicana"
@@ -163,7 +163,7 @@
     },
     {
         "name": "Taco",
-        "price":0.00,
+        "price":7.00,
         "category":[
             "comida",
             "mexicana"
@@ -172,7 +172,7 @@
     },
     {
         "name": "Shaksuka",
-        "price":0.00,
+        "price":23.50,
         "category":[
             "comida",
             "arabe"
@@ -188,3 +188,6 @@
         "image": " "
     }
 ]
+
+
+export default cardapio;
