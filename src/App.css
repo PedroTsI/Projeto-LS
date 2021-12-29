@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+#carouselExampleFade {
+  background-color:black ;
+}
+
+.show{
+  display: block !important;
+}
